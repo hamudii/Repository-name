@@ -1,2 +1,2 @@
 # Repository-name
-This one is for quiz in coursera
+I am editing the REAME file. Adding some more deails bout the project description
